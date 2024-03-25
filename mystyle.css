@@ -27,6 +27,25 @@
 }
 
 .project-movie-posters{
-    width: 50%;
-    height: 80%;
+    width: 20em;
+    height: 20em;
+    
+}
+
+.project-movies-row-wise{
+    display: flex;
+    justify-content: space-between;
+    gap: 20px;
+}
+.gallery{
+    text-align: center;
+}
+
+.primary-footer-bhavana-studios{
+    display: flex;
+    justify-content: space-around;
+}
+.secondary-footer-bhavana-studios{
+    display: flex;
+    justify-content: space-between;
 }
