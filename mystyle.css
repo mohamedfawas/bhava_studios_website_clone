@@ -124,6 +124,11 @@ body{
     font-weight: bold;
     font-size: 1.2em;
 }
+
+.list-in-primary-footer{
+    list-style-type:none;
+    padding-left:0; 
+}
 .secondary-footer-bhavana-studios{
     display: flex;
     justify-content: space-between;
@@ -131,4 +136,10 @@ body{
     color: white;
     padding-top: 20px;
     padding-bottom: 35px;
+}
+
+.logos-social-medias{
+    padding-right: 40px;
+    column-gap: 10px;
+    gap: 10px;
 }
